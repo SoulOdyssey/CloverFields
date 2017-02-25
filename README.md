@@ -1,2 +1,2 @@
 # CloverFields
-This is a cool game (hopefully)
+This is a cool game (hopefully).
